@@ -3755,3 +3755,1630 @@ LogInit: Object subsystem initialized
 [2018.12.16-14.29.07:016][ 88]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/MapWord29273E2808D66349B0ACC6B4867A8574.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord.umap'
 [2018.12.16-14.29.07:052][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapWord_BuiltData" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord_BuiltData.uasset" SILENT=true
 [2018.12.16-14.29.07:079][ 88]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/MapWord_BuiltData292913D008D66349B0D4D6FE867E8718.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord_BuiltData.uasset'
+[2018.12.16-14.30.41:163][849]LogLinux: Scale at X=167.000000, Y=484.400024: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.30.41:195][851]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.30.44:743][177]BlueprintLog: New page: Compile Inimigo1Blueprint
+[2018.12.16-14.30.45:201][196]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.30.45:201][196]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.30.45:215][196]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.30.45:258][196]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.30.45:330][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Personagens/Inimigo1Blueprint" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset" SILENT=true
+[2018.12.16-14.30.45:378][196]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/Inimigo1Blueprint2C0F174508D66349EB68FBF68C5A2898.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset'
+[2018.12.16-14.30.50:172][729]BlueprintLog: New page: Compile Inimigo1Blueprint
+[2018.12.16-14.30.51:107][794]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.30.51:108][794]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.30.51:110][794]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.30.51:156][794]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.30.51:237][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Personagens/Inimigo1Blueprint" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset" SILENT=true
+[2018.12.16-14.30.51:312][794]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/Inimigo1Blueprint2D79373308D66349EEF028628CB47A19.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset'
+[2018.12.16-14.31.02:322][ 30]LogLinux: Scale at X=167.000000, Y=504.400024: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.31.02:356][ 32]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.31.06:968][451]BlueprintLog: New page: Compile Inimigo1Blueprint
+[2018.12.16-14.31.07:534][489]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.31.07:534][489]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.31.07:536][489]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.31.07:591][489]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.31.07:644][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Personagens/Inimigo1Blueprint" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset" SILENT=true
+[2018.12.16-14.31.07:691][489]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/Inimigo1Blueprint3058253308D66349F8B58C168DAE9E5C.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset'
+[2018.12.16-14.31.53:033][782]LogLinux: Scale at X=659.000000, Y=790.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.31.53:073][784]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.32.07:588][458]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.07:588][458]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.07:589][458]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.07:659][459]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.32.09:157][598]LogLinux: Scale at X=932.000000, Y=718.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.09:218][600]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.32.10:505][742]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.10:505][742]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.10:505][742]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.10:544][743]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.32.11:220][807]LogLinux: Scale at X=862.000000, Y=749.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.11:289][809]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.32.25:258][438]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.25:258][438]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.25:258][438]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.25:298][439]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.32.25:836][483]LogLinux: Scale at X=1288.000000, Y=798.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.25:898][485]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.32.31:136][ 81]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.31:136][ 81]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.31:136][ 81]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.31:186][ 82]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.32.31:714][120]LogLinux: Scale at X=1233.000000, Y=822.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.31:808][122]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.32.36:832][621]BlueprintLog: New page: Compile Inimigo1Blueprint
+[2018.12.16-14.32.38:643][786]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.38:643][786]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.38:643][786]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.38:705][787]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.32.39:156][825]LogLinux: Scale at X=1358.000000, Y=750.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.39:222][827]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.32.43:305][296]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.43:305][296]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.43:305][296]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.43:369][297]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.32.44:116][346]LogLinux: Scale at X=1234.000000, Y=760.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.44:185][348]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.32.50:707][ 36]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.50:707][ 36]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.50:707][ 36]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.50:772][ 37]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.32.53:537][323]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.53:538][323]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.53:538][323]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.53:608][324]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.32.54:518][396]LogLinux: Scale at X=1400.000000, Y=800.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.32.54:582][398]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.33.03:259][325]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.03:259][325]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.03:259][325]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.03:336][326]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.33.04:031][389]LogLinux: Scale at X=1223.000000, Y=563.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.04:109][391]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.33.05:759][575]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.05:759][575]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.05:759][575]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.05:829][576]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.33.06:446][615]LogLinux: Scale at X=1236.000000, Y=756.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.06:528][617]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.33.09:301][891]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.09:301][891]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.09:301][891]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.09:353][892]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.33.10:433][984]LogLinux: Scale at X=882.000000, Y=763.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.10:598][986]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.33.13:174][259]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.13:174][259]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.13:174][259]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.13:241][260]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.33.13:763][311]LogLinux: Scale at X=1192.000000, Y=873.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.13:833][313]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.33.20:153][992]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.20:153][992]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.20:153][992]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.20:198][993]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.33.20:814][ 53]LogLinux: Scale at X=1333.000000, Y=821.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.20:886][ 55]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.33.22:317][203]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.22:317][203]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.22:317][203]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.22:387][204]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.33.23:253][283]LogLinux: Scale at X=1122.000000, Y=643.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.23:340][285]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.33.25:142][456]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.25:142][456]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.25:143][456]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.25:211][457]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.33.27:284][668]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.27:285][668]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.27:285][668]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.27:354][669]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.33.29:893][919]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.29:893][919]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.29:893][919]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.29:958][920]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.33.47:089][927]BlueprintLog: New page: Compile Inimigo1Blueprint
+[2018.12.16-14.33.47:709][965]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.47:709][965]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.47:712][965]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.33.47:756][965]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.33.47:825][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Personagens/Inimigo1Blueprint" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset" SILENT=true
+[2018.12.16-14.33.47:881][965]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/Inimigo1Blueprint35DD294608D6634A582EF56A973AC961.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset'
+[2018.12.16-14.34.01:438][518]BlueprintLog: New page: Compile Inimigo1Blueprint
+[2018.12.16-14.34.02:040][554]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.02:041][554]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.02:042][554]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.02:081][554]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.34.02:150][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Personagens/Inimigo1Blueprint" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset" SILENT=true
+[2018.12.16-14.34.02:205][554]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/Inimigo1Blueprint382F209E08D6634A60B8A62C98155BAB.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset'
+[2018.12.16-14.34.05:349][881]LogLinux: Scale at X=692.000000, Y=607.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.05:386][883]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.34.10:794][439]BlueprintLog: New page: Compile Inimigo1Blueprint
+[2018.12.16-14.34.16:043][965]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.16:043][965]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.16:043][965]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.16:115][966]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.34.16:665][ 15]LogLinux: Scale at X=662.000000, Y=475.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.16:755][ 17]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.34.18:952][236]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.18:952][236]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.18:953][236]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.19:000][237]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.34.19:372][266]LogLinux: Scale at X=1016.000000, Y=605.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.19:435][268]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.34.23:915][727]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.23:915][727]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.23:915][727]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.23:972][728]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.34.24:669][774]LogLinux: Scale at X=1077.000000, Y=548.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.24:733][776]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.34.31:184][433]BlueprintLog: New page: Compile Inimigo1Blueprint
+[2018.12.16-14.34.36:762][ 56]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.36:762][ 56]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.36:763][ 56]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.36:840][ 57]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.34.40:582][459]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.40:582][459]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.40:582][459]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.40:643][460]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.34.41:830][567]LogLinux: Scale at X=1177.000000, Y=607.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.41:894][569]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.34.43:578][719]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.43:578][719]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.43:578][719]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.43:652][720]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.34.44:332][772]LogLinux: Scale at X=991.500000, Y=428.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.44:415][774]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.34.46:461][971]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.46:461][971]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.46:461][971]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.46:534][972]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.34.49:813][298]BlueprintLog: New page: Compile Inimigo1Blueprint
+[2018.12.16-14.34.50:566][347]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.50:566][347]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.50:576][347]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.50:614][347]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.34.50:685][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Personagens/Inimigo1Blueprint" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset" SILENT=true
+[2018.12.16-14.34.50:745][347]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/Inimigo1Blueprint3E45B6C308D6634A7DA6DCE09AF9F140.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset'
+[2018.12.16-14.34.58:217][202]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.58:217][202]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.58:219][202]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.34.58:257][202]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.34.58:292][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Personagens/Inimigo1Blueprint" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset" SILENT=true
+[2018.12.16-14.34.58:332][202]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/Inimigo1Blueprint3E47778B08D6634A822FB6A69B6E052C.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset'
+[2018.12.16-14.35.01:015][469]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.01:015][469]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.01:017][469]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.01:055][469]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.35.01:087][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapWord" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.16-14.35.01:472][469]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/MapWord3E63214308D6634A83F2502A9B9B13CF.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord.umap'
+[2018.12.16-14.35.01:507][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapWord_BuiltData" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord_BuiltData.uasset" SILENT=true
+[2018.12.16-14.35.01:535][469]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/MapWord_BuiltData3E6505C308D6634A841A714A9B9F170F.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord_BuiltData.uasset'
+[2018.12.16-14.35.08:010][783]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.08:010][783]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.08:012][783]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.08:061][783]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint
+[2018.12.16-14.35.08:068][783]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.35.08:097][783]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.16-14.35.08:584][783]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.16-14.35.09:073][783]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.16-14.35.33:466][988]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.33:466][988]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.33:466][988]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.33:551][989]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.35.36:231][102]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.36:231][102]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.36:231][102]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.36:397][103]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.35.36:787][122]LogLinux: Scale at X=1195.000000, Y=774.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.36:883][124]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.35.37:955][170]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.37:956][170]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.37:956][170]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.38:045][171]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.35.44:464][515]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.44:464][515]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.44:464][515]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.44:577][516]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.35.45:077][536]LogLinux: Scale at X=666.500000, Y=572.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.45:168][538]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.35.47:494][632]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.47:494][632]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.47:494][632]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.47:578][633]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.35.47:880][645]LogLinux: Scale at X=1047.000000, Y=731.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.47:945][647]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.35.52:766][850]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.52:766][850]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.52:767][850]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.52:852][851]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.35.55:595][958]BlueprintLog: New page: Compile Inimigo1BluePrint
+[2018.12.16-14.35.55:647][958]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Inimigo1BluePrint_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Inimigo1BluePrint_C_7
+	Function /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint_C:ExecuteUbergraph_Inimigo1BluePrint:011B
+[2018.12.16-14.35.56:296][978]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.56:296][978]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.56:329][978]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.35.56:366][978]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.35.56:438][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Animations/Inimigo1BluePrint" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Animations/Inimigo1BluePrint.uasset" SILENT=true
+[2018.12.16-14.35.56:524][978]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/Inimigo1BluePrint4C8FC33808D6634AA4D90B769EE54D1F.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Animations/Inimigo1BluePrint.uasset'
+[2018.12.16-14.36.17:720][186]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.17:720][186]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.17:720][186]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.17:808][187]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.36.18:622][221]LogLinux: Scale at X=1397.000000, Y=472.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.18:692][223]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.36.27:957][685]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.27:957][685]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.27:958][685]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.28:045][686]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.36.28:666][711]LogLinux: Scale at X=1336.000000, Y=477.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.28:738][713]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.36.38:913][211]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.38:913][211]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.38:913][211]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.39:000][212]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.36.39:806][245]LogLinux: Scale at X=1334.500000, Y=667.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.39:902][247]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.36.42:164][339]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.42:165][339]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.42:165][339]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.42:259][340]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.36.42:844][365]LogLinux: Scale at X=1494.000000, Y=476.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.42:894][365]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.42:894][365]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.42:894][365]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.42:989][366]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.36.44:025][402]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.44:025][402]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.44:026][402]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.44:118][403]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.36.45:938][476]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.45:939][476]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.45:939][476]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.46:029][477]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.36.49:537][631]BlueprintLog: New page: Compile Inimigo1BluePrint
+[2018.12.16-14.36.49:610][631]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Inimigo1BluePrint_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Inimigo1BluePrint_C_8
+	Function /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint_C:ExecuteUbergraph_Inimigo1BluePrint:01A4
+[2018.12.16-14.36.50:363][658]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.50:363][658]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.50:395][658]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.36.50:430][658]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.36.50:502][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Animations/Inimigo1BluePrint" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Animations/Inimigo1BluePrint.uasset" SILENT=true
+[2018.12.16-14.36.50:594][658]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/Inimigo1BluePrint4EF41EA808D6634AC5146D22A21E6558.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Animations/Inimigo1BluePrint.uasset'
+[2018.12.16-14.36.52:193][759]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-14.36.52:224][759]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.36.52:224][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-14.36.52:224][759]PIE: New page: PIE session: MapWord (Dec 16, 2018, 8:36:52 AM)
+[2018.12.16-14.36.52:224][759]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapWord
+[2018.12.16-14.36.52:242][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017904s)
+[2018.12.16-14.36.52:243][759]LogAIModule: Creating AISystem for world MapWord
+[2018.12.16-14.36.52:243][759]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2018.12.16-14.36.52:243][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapWord.MapWord to /Game/Maps/UEDPIE_0_MapWord.MapWord (0.018792s)
+[2018.12.16-14.36.52:286][759]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.12.16-14.36.52:286][759]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.12.16-14.36.52:286][759]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.12.16-14.36.52:286][759]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.12.16-14.36.52:286][759]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.12.16-14.36.52:286][759]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.12.16-14.36.52:286][759]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.12.16-14.36.52:287][759]LogAudioMixer: Display: Initializing audio mixer.
+[2018.12.16-14.36.52:287][759]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.12.16-14.36.52:347][759]LogInit: FAudioDevice initialized.
+[2018.12.16-14.36.52:394][759]LogLoad: Game class is 'GameModeAV3_C'
+[2018.12.16-14.36.52:410][759]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapWord.MapWord up for play (max tick rate 0) at 2018.12.16-11.36.52
+[2018.12.16-14.36.52:412][759]LogWorld: Bringing up level for play took: 0.016829
+[2018.12.16-14.36.52:414][759]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapWord 0.199
+[2018.12.16-14.36.52:414][759]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.37.18:211][510]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.37.18:212][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-14.37.18:302][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-14.37.18:302][510]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.37.18:366][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-14.37.18:412][511]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2018.12.16-14.37.20:300][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-14.37.28:822][659]LogLinux: Scale at X=881.000000, Y=724.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.37.28:862][661]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.37.37:195][534]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.37.37:196][534]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.37.37:196][534]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.37.37:263][535]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.37.38:580][658]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.37.38:580][658]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.37.38:580][658]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.37.38:648][659]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.37.44:673][294]BlueprintLog: New page: Compile Inimigo1Blueprint
+[2018.12.16-14.37.45:316][327]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.37.45:316][327]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.37.45:325][327]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.37.45:379][327]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.37.45:436][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Personagens/Inimigo1Blueprint" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset" SILENT=true
+[2018.12.16-14.37.45:496][327]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/Inimigo1Blueprint5128EEEA08D6634AE5D13324A5646EF2.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset'
+[2018.12.16-14.37.47:977][563]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-14.37.48:009][563]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.37.48:009][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-14.37.48:010][563]PIE: New page: PIE session: MapWord (Dec 16, 2018, 8:37:48 AM)
+[2018.12.16-14.37.48:010][563]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapWord
+[2018.12.16-14.37.48:028][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017776s)
+[2018.12.16-14.37.48:028][563]LogAIModule: Creating AISystem for world MapWord
+[2018.12.16-14.37.48:028][563]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2018.12.16-14.37.48:029][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapWord.MapWord to /Game/Maps/UEDPIE_0_MapWord.MapWord (0.018666s)
+[2018.12.16-14.37.48:071][563]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.12.16-14.37.48:071][563]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.12.16-14.37.48:071][563]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.12.16-14.37.48:071][563]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.12.16-14.37.48:071][563]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.12.16-14.37.48:071][563]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.12.16-14.37.48:071][563]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.12.16-14.37.48:071][563]LogAudioMixer: Display: Initializing audio mixer.
+[2018.12.16-14.37.48:071][563]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.12.16-14.37.48:135][563]LogInit: FAudioDevice initialized.
+[2018.12.16-14.37.48:183][563]LogLoad: Game class is 'GameModeAV3_C'
+[2018.12.16-14.37.48:201][563]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapWord.MapWord up for play (max tick rate 0) at 2018.12.16-11.37.48
+[2018.12.16-14.37.48:203][563]LogWorld: Bringing up level for play took: 0.018419
+[2018.12.16-14.37.48:205][563]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapWord 0.206
+[2018.12.16-14.37.48:205][563]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.38.04:238][ 64]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.04:263][ 65]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.08:362][218]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.08:390][219]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.08:419][220]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.08:448][221]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.08:476][222]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.08:505][223]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.08:532][224]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.08:561][225]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.08:589][226]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.11:928][348]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.11:953][349]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.11:985][350]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.12:012][351]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.12:038][352]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.12:066][353]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.13:446][403]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.13:473][404]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.13:502][405]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.15:672][484]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.15:697][485]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.15:728][486]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.15:756][487]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.15:782][488]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.17:862][560]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.38.17:862][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-14.38.17:940][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-14.38.17:940][560]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.38.18:020][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-14.38.18:059][561]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2018.12.16-14.38.19:621][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-14.38.27:544][597]BlueprintLog: New page: Compile Inimigo1Blueprint
+[2018.12.16-14.38.28:412][656]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.38.28:412][656]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.38.28:421][656]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.38.28:462][656]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.38.28:530][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Personagens/Inimigo1Blueprint" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset" SILENT=true
+[2018.12.16-14.38.28:591][656]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/Inimigo1Blueprint53525E1B08D6634AFF812E28A7F600C1.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset'
+[2018.12.16-14.38.32:653][ 56]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.38.32:653][ 56]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.38.32:660][ 56]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.38.32:736][ 56]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.38.32:762][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapWord" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.16-14.38.33:155][ 56]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/MapWord536E74BD08D6634B021FAA74A8390C7A.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord.umap'
+[2018.12.16-14.38.33:192][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapWord_BuiltData" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord_BuiltData.uasset" SILENT=true
+[2018.12.16-14.38.33:219][ 56]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/MapWord_BuiltData53707BEB08D6634B024880CAA83D21DE.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord_BuiltData.uasset'
+[2018.12.16-14.38.34:034][123]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-14.38.34:065][123]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.38.34:065][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-14.38.34:065][123]PIE: New page: PIE session: MapWord (Dec 16, 2018, 8:38:34 AM)
+[2018.12.16-14.38.34:065][123]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapWord
+[2018.12.16-14.38.34:084][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018745s)
+[2018.12.16-14.38.34:085][123]LogAIModule: Creating AISystem for world MapWord
+[2018.12.16-14.38.34:085][123]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2018.12.16-14.38.34:085][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapWord.MapWord to /Game/Maps/UEDPIE_0_MapWord.MapWord (0.019764s)
+[2018.12.16-14.38.34:120][123]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.12.16-14.38.34:120][123]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.12.16-14.38.34:120][123]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.12.16-14.38.34:120][123]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.12.16-14.38.34:121][123]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.12.16-14.38.34:121][123]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.12.16-14.38.34:121][123]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.12.16-14.38.34:121][123]LogAudioMixer: Display: Initializing audio mixer.
+[2018.12.16-14.38.34:121][123]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.12.16-14.38.34:199][123]LogInit: FAudioDevice initialized.
+[2018.12.16-14.38.34:235][123]LogLoad: Game class is 'GameModeAV3_C'
+[2018.12.16-14.38.34:253][123]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapWord.MapWord up for play (max tick rate 0) at 2018.12.16-11.38.34
+[2018.12.16-14.38.34:255][123]LogWorld: Bringing up level for play took: 0.019187
+[2018.12.16-14.38.34:257][123]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapWord 0.203
+[2018.12.16-14.38.34:257][123]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.38.44:686][430]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.48:658][578]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.48:687][579]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.48:717][580]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.49:847][620]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.49:876][621]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.51:053][662]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.38.53:720][759]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.38.53:721][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-14.38.53:795][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-14.38.53:795][759]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.38.53:867][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-14.38.53:907][760]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2018.12.16-14.38.55:315][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-14.39.04:837][995]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.39.04:837][995]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.39.04:837][995]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.39.04:878][996]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.39.07:871][290]BlueprintLog: New page: Compile Inimigo1Blueprint
+[2018.12.16-14.39.30:883][855]LogLinux: Scale at X=962.000000, Y=626.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.39.30:922][857]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.39.35:356][325]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.39.35:357][325]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.39.35:357][325]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.39.35:403][326]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.39.37:355][516]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.39.37:355][516]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.39.37:356][516]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.39.37:406][517]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.39.42:838][106]BlueprintLog: New page: Compile Inimigo1Blueprint
+[2018.12.16-14.39.43:502][141]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.39.43:502][141]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.39.43:510][141]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.39.43:570][141]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.39.43:622][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Personagens/Inimigo1Blueprint" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset" SILENT=true
+[2018.12.16-14.39.43:683][141]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/Inimigo1Blueprint57B2D6C708D6634B2C43C204AC6FD0FA.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset'
+[2018.12.16-14.39.45:900][343]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-14.39.45:933][343]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.39.45:933][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-14.39.45:933][343]PIE: New page: PIE session: MapWord (Dec 16, 2018, 8:39:45 AM)
+[2018.12.16-14.39.45:933][343]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapWord
+[2018.12.16-14.39.45:951][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018004s)
+[2018.12.16-14.39.45:952][343]LogAIModule: Creating AISystem for world MapWord
+[2018.12.16-14.39.45:952][343]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2018.12.16-14.39.45:952][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapWord.MapWord to /Game/Maps/UEDPIE_0_MapWord.MapWord (0.018919s)
+[2018.12.16-14.39.45:987][343]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.12.16-14.39.45:988][343]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.12.16-14.39.45:988][343]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.12.16-14.39.45:988][343]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.12.16-14.39.45:988][343]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.12.16-14.39.45:988][343]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.12.16-14.39.45:988][343]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.12.16-14.39.45:988][343]LogAudioMixer: Display: Initializing audio mixer.
+[2018.12.16-14.39.45:988][343]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.12.16-14.39.46:049][343]LogInit: FAudioDevice initialized.
+[2018.12.16-14.39.46:101][343]LogLoad: Game class is 'GameModeAV3_C'
+[2018.12.16-14.39.46:132][343]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapWord.MapWord up for play (max tick rate 0) at 2018.12.16-11.39.46
+[2018.12.16-14.39.46:136][343]LogWorld: Bringing up level for play took: 0.033152
+[2018.12.16-14.39.46:138][343]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapWord 0.215
+[2018.12.16-14.39.46:139][343]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.40.07:393][ 58]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.11:544][213]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.11:570][214]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.11:599][215]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.11:627][216]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.11:653][217]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.11:679][218]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.11:707][219]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.11:733][220]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.11:760][221]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.11:787][222]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.11:814][223]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.11:841][224]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.11:870][225]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.11:897][226]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.11:922][227]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.11:950][228]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.14:693][328]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.14:718][329]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.14:748][330]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.14:777][331]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.14:804][332]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.14:830][333]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.14:914][336]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.14:941][337]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.14:969][338]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.27:032][788]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.27:058][789]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.41:460][327]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.41:487][328]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.41:517][329]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.41:544][330]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.41:572][331]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.41:600][332]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.41:626][333]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.41:653][334]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.41:681][335]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.41:709][336]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.41:736][337]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.41:764][338]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.41:793][339]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.41:820][340]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.41:848][341]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.41:876][342]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.41:904][343]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.41:930][344]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.41:956][345]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.41:983][346]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.42:010][347]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.42:039][348]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.42:067][349]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Dano
+[2018.12.16-14.40.50:201][640]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.40.50:202][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-14.40.50:284][640]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-14.40.50:285][640]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.40.50:342][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-14.40.50:380][641]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2018.12.16-14.40.52:746][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-14.40.54:518][ 71]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.40.54:518][ 71]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.40.54:521][ 71]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.40.54:607][ 71]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.40.54:624][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapWord" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.16-14.40.55:020][ 71]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/MapWord57E72DA208D6634B56AFE766B0ADCB55.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord.umap'
+[2018.12.16-14.40.55:056][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapWord_BuiltData" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord_BuiltData.uasset" SILENT=true
+[2018.12.16-14.40.55:085][ 71]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/MapWord_BuiltData57E9EBEB08D6634B56D843B4B0B1D487.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord_BuiltData.uasset'
+[2018.12.16-14.41.11:985][831]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.41.11:985][831]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.41.11:986][831]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.41.12:059][832]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.41.12:833][898]LogLinux: Scale at X=688.000000, Y=527.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.41.12:922][900]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.41.15:732][185]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.41.15:732][185]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.41.15:732][185]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.41.15:800][186]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.41.20:020][573]BlueprintLog: New page: Compile Inimigo1Blueprint
+[2018.12.16-14.41.22:807][773]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.41.22:807][773]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.41.22:816][773]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.41.22:857][773]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.41.22:929][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Personagens/Inimigo1Blueprint" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset" SILENT=true
+[2018.12.16-14.41.22:992][773]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/Inimigo1Blueprint5A067F3208D6634B67754F00B25B1F1D.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset'
+[2018.12.16-14.41.24:472][906]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.41.24:473][906]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.41.24:475][906]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.41.24:527][906]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.41.24:546][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapWord" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.16-14.41.24:942][906]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/MapWord5A2229A708D6634B6885561AB27652D1.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord.umap'
+[2018.12.16-14.41.24:978][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapWord_BuiltData" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord_BuiltData.uasset" SILENT=true
+[2018.12.16-14.41.25:005][906]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/MapWord_BuiltData5A24CB4008D6634B68ADFF7AB27A63B8.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord_BuiltData.uasset'
+[2018.12.16-14.41.25:505][947]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-14.41.25:535][947]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.41.25:535][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-14.41.25:536][947]PIE: New page: PIE session: MapWord (Dec 16, 2018, 8:41:25 AM)
+[2018.12.16-14.41.25:536][947]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapWord
+[2018.12.16-14.41.25:554][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017766s)
+[2018.12.16-14.41.25:554][947]LogAIModule: Creating AISystem for world MapWord
+[2018.12.16-14.41.25:554][947]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2018.12.16-14.41.25:554][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapWord.MapWord to /Game/Maps/UEDPIE_0_MapWord.MapWord (0.018643s)
+[2018.12.16-14.41.25:589][947]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.12.16-14.41.25:589][947]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.12.16-14.41.25:589][947]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.12.16-14.41.25:589][947]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.12.16-14.41.25:589][947]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.12.16-14.41.25:589][947]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.12.16-14.41.25:589][947]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.12.16-14.41.25:589][947]LogAudioMixer: Display: Initializing audio mixer.
+[2018.12.16-14.41.25:589][947]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.12.16-14.41.25:647][947]LogInit: FAudioDevice initialized.
+[2018.12.16-14.41.25:674][947]LogLoad: Game class is 'GameModeAV3_C'
+[2018.12.16-14.41.25:686][947]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapWord.MapWord up for play (max tick rate 0) at 2018.12.16-11.41.25
+[2018.12.16-14.41.25:688][947]LogWorld: Bringing up level for play took: 0.013262
+[2018.12.16-14.41.25:690][947]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapWord 0.166
+[2018.12.16-14.41.25:690][947]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.41.39:442][390]LogBlueprintUserMessages: [Inimigo1Blueprint_2] 3
+[2018.12.16-14.41.39:469][391]LogBlueprintUserMessages: [Inimigo1Blueprint_2] 2
+[2018.12.16-14.41.39:507][392]LogBlueprintUserMessages: [Inimigo1Blueprint_2] 1
+[2018.12.16-14.41.39:541][393]LogBlueprintUserMessages: [Inimigo1Blueprint_2] 0
+[2018.12.16-14.41.41:162][447]LogBlueprintUserMessages: [Inimigo1Blueprint_2] -1
+[2018.12.16-14.41.41:193][448]LogBlueprintUserMessages: [Inimigo1Blueprint_2] -2
+[2018.12.16-14.41.41:226][449]LogBlueprintUserMessages: [Inimigo1Blueprint_2] -3
+[2018.12.16-14.41.43:857][539]LogBlueprintUserMessages: [Inimigo1Blueprint_2] -4
+[2018.12.16-14.41.43:885][540]LogBlueprintUserMessages: [Inimigo1Blueprint_2] -5
+[2018.12.16-14.41.43:919][541]LogBlueprintUserMessages: [Inimigo1Blueprint_2] -6
+[2018.12.16-14.41.43:952][542]LogBlueprintUserMessages: [Inimigo1Blueprint_2] -7
+[2018.12.16-14.41.44:438][558]LogBlueprintUserMessages: [Inimigo1Blueprint_2] -8
+[2018.12.16-14.41.44:467][559]LogBlueprintUserMessages: [Inimigo1Blueprint_2] -9
+[2018.12.16-14.41.47:534][662]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.41.47:534][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-14.41.47:613][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-14.41.47:613][662]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.41.47:680][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-14.41.47:719][663]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2018.12.16-14.41.49:827][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-14.42.11:796][393]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.11:796][393]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.11:796][393]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.11:860][394]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.42.12:354][442]LogLinux: Scale at X=976.000000, Y=689.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.12:425][444]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.42.17:814][ 58]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.17:814][ 58]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.17:814][ 58]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.17:886][ 59]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.42.30:948][496]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.30:948][496]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.30:948][496]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.31:021][497]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.42.34:573][851]LogLinux: Scale at X=1066.000000, Y=578.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.34:619][853]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.42.38:404][207]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.38:405][207]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.38:405][207]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.38:510][208]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.42.39:784][317]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.39:785][317]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.39:785][317]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.39:838][318]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.42.42:211][545]BlueprintLog: New page: Compile Inimigo1Blueprint
+[2018.12.16-14.42.42:794][573]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.42:794][573]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.42:808][573]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.42:847][573]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.42.42:918][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Personagens/Inimigo1Blueprint" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset" SILENT=true
+[2018.12.16-14.42.42:979][573]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/Inimigo1Blueprint5C65D96908D6634B9722F0D6B71FA69C.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset'
+[2018.12.16-14.42.46:096][864]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.46:097][864]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.46:099][864]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.42.46:153][864]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.42.46:166][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapWord" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.16-14.42.46:549][864]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/MapWord5C81038B08D6634B9929F118B7538CB1.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord.umap'
+[2018.12.16-14.42.46:585][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapWord_BuiltData" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord_BuiltData.uasset" SILENT=true
+[2018.12.16-14.42.46:613][864]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/MapWord_BuiltData5C83016608D6634B9952928AB7579CCF.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord_BuiltData.uasset'
+[2018.12.16-14.42.50:766][215]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-14.42.50:796][215]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.42.50:796][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-14.42.50:797][215]PIE: New page: PIE session: MapWord (Dec 16, 2018, 8:42:50 AM)
+[2018.12.16-14.42.50:797][215]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapWord
+[2018.12.16-14.42.50:814][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017717s)
+[2018.12.16-14.42.50:815][215]LogAIModule: Creating AISystem for world MapWord
+[2018.12.16-14.42.50:815][215]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2018.12.16-14.42.50:816][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapWord.MapWord to /Game/Maps/UEDPIE_0_MapWord.MapWord (0.018776s)
+[2018.12.16-14.42.50:850][215]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.12.16-14.42.50:850][215]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.12.16-14.42.50:850][215]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.12.16-14.42.50:850][215]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.12.16-14.42.50:850][215]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.12.16-14.42.50:850][215]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.12.16-14.42.50:850][215]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.12.16-14.42.50:851][215]LogAudioMixer: Display: Initializing audio mixer.
+[2018.12.16-14.42.50:851][215]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.12.16-14.42.50:920][215]LogInit: FAudioDevice initialized.
+[2018.12.16-14.42.50:962][215]LogLoad: Game class is 'GameModeAV3_C'
+[2018.12.16-14.42.50:983][215]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapWord.MapWord up for play (max tick rate 0) at 2018.12.16-11.42.50
+[2018.12.16-14.42.50:985][215]LogWorld: Bringing up level for play took: 0.021699
+[2018.12.16-14.42.50:987][215]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapWord 0.202
+[2018.12.16-14.42.50:988][215]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.43.07:346][719]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.07:375][720]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.07:411][721]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.07:444][722]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.07:473][723]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.07:506][724]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.07:538][725]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.07:570][726]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.07:598][727]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.07:633][728]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.07:663][729]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.07:693][730]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.07:724][731]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.07:755][732]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.07:786][733]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.07:815][734]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.07:845][735]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.07:874][736]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.07:902][737]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.07:934][738]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.07:965][739]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.07:996][740]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:025][741]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:056][742]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:085][743]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:114][744]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:144][745]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:176][746]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:208][747]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:241][748]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:270][749]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:303][750]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:337][751]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:368][752]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:400][753]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:432][754]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:465][755]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:498][756]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:529][757]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:561][758]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:594][759]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:627][760]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:659][761]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:691][762]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:725][763]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:756][764]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:789][765]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:820][766]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:853][767]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:885][768]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:917][769]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:949][770]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.08:982][771]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:014][772]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:045][773]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:078][774]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:110][775]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:142][776]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:174][777]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:206][778]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:238][779]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:270][780]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:302][781]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:336][782]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:366][783]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:398][784]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:430][785]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:462][786]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:494][787]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:527][788]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:559][789]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:591][790]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:628][791]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:660][792]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:689][793]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:720][794]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:750][795]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:783][796]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:815][797]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:848][798]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:883][799]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:912][800]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:944][801]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.09:976][802]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:008][803]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:039][804]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:072][805]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:104][806]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:137][807]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:169][808]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:202][809]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:234][810]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:265][811]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:298][812]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:332][813]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:363][814]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:396][815]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:427][816]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:459][817]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:491][818]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:523][819]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:556][820]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:589][821]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:621][822]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:654][823]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:685][824]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:716][825]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:750][826]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:779][827]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:812][828]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:845][829]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:877][830]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:908][831]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:941][832]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.10:973][833]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:006][834]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:037][835]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:070][836]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:101][837]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:132][838]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:165][839]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:199][840]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:230][841]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:262][842]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:294][843]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:327][844]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:360][845]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:390][846]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:422][847]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:455][848]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:487][849]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:519][850]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:552][851]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:582][852]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:616][853]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:649][854]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:681][855]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:715][856]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:747][857]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:779][858]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:810][859]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:842][860]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:875][861]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:907][862]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:940][863]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.11:971][864]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:005][865]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:036][866]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:107][867]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:113][868]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:140][869]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:173][870]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:204][871]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:234][872]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:264][873]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:295][874]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:328][875]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:360][876]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:393][877]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:424][878]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:456][879]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:489][880]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:520][881]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:553][882]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:585][883]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:617][884]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:649][885]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:682][886]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:713][887]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:746][888]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:777][889]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:809][890]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:842][891]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:873][892]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:906][893]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:936][894]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.12:969][895]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:002][896]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:034][897]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:068][898]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:100][899]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:130][900]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:163][901]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:197][902]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:228][903]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:261][904]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:291][905]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:324][906]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:356][907]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:389][908]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:421][909]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:454][910]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:484][911]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:517][912]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:549][913]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:581][914]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:614][915]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:646][916]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:679][917]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:712][918]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:746][919]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:778][920]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:811][921]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:842][922]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:875][923]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:905][924]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:938][925]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.13:971][926]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:003][927]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:035][928]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:067][929]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:099][930]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:131][931]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:163][932]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:195][933]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:227][934]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:260][935]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:292][936]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:324][937]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:356][938]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:388][939]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:421][940]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:453][941]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:485][942]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:517][943]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:550][944]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:582][945]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:614][946]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:646][947]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:678][948]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:711][949]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:748][950]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:776][951]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:808][952]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:842][953]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:875][954]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:906][955]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:939][956]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.14:970][957]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:003][958]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:035][959]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:068][960]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:100][961]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:133][962]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:164][963]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:197][964]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:227][965]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:260][966]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:293][967]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:326][968]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:357][969]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:389][970]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:421][971]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:453][972]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:486][973]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:518][974]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:550][975]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:582][976]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:614][977]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:646][978]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:679][979]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:710][980]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:743][981]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:775][982]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:808][983]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:840][984]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:872][985]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:904][986]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:937][987]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.15:968][988]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:001][989]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:033][990]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:065][991]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:098][992]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:129][993]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:162][994]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:194][995]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:226][996]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:257][997]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:286][998]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:316][999]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:348][  0]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:377][  1]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:409][  2]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:442][  3]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:474][  4]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:505][  5]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:537][  6]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:569][  7]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:601][  8]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:629][  9]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:663][ 10]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:695][ 11]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:727][ 12]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:759][ 13]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:792][ 14]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:824][ 15]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:857][ 16]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:888][ 17]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:922][ 18]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:955][ 19]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.16:987][ 20]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:020][ 21]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:052][ 22]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:084][ 23]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:115][ 24]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:148][ 25]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:181][ 26]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:213][ 27]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:246][ 28]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:279][ 29]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:311][ 30]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:343][ 31]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:376][ 32]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:407][ 33]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:438][ 34]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:470][ 35]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:503][ 36]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:536][ 37]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:568][ 38]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:600][ 39]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:632][ 40]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:665][ 41]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:695][ 42]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:728][ 43]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:760][ 44]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:793][ 45]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:824][ 46]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:857][ 47]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:889][ 48]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:921][ 49]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:954][ 50]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.17:986][ 51]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:018][ 52]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:049][ 53]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:082][ 54]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:115][ 55]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:145][ 56]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:179][ 57]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:210][ 58]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:242][ 59]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:273][ 60]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:306][ 61]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:337][ 62]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:370][ 63]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:401][ 64]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:433][ 65]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:465][ 66]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:498][ 67]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:529][ 68]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:562][ 69]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:594][ 70]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:627][ 71]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:661][ 72]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:694][ 73]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:725][ 74]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:758][ 75]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:790][ 76]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:822][ 77]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:854][ 78]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:887][ 79]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:920][ 80]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:953][ 81]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.18:984][ 82]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:016][ 83]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:048][ 84]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:081][ 85]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:113][ 86]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:146][ 87]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:178][ 88]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:211][ 89]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:243][ 90]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:275][ 91]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:307][ 92]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:340][ 93]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:373][ 94]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:404][ 95]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:436][ 96]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:468][ 97]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:500][ 98]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:532][ 99]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:565][100]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:601][101]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:642][102]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:674][103]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:708][104]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:741][105]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:773][106]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:805][107]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:838][108]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:870][109]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:903][110]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:933][111]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:965][112]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.19:998][113]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:030][114]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:063][115]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:095][116]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:126][117]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:159][118]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:190][119]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:222][120]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:256][121]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:287][122]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:319][123]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:350][124]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:383][125]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:416][126]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:450][127]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:480][128]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:512][129]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:543][130]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:577][131]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:609][132]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:641][133]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:674][134]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:706][135]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:736][136]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:769][137]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:802][138]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:834][139]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:866][140]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:898][141]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:930][142]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:963][143]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.20:995][144]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:027][145]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:058][146]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:091][147]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:123][148]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:156][149]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:188][150]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:221][151]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:253][152]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:284][153]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:317][154]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:349][155]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:381][156]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:412][157]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:444][158]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:477][159]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:509][160]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:541][161]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:573][162]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:605][163]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:638][164]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:670][165]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:702][166]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:735][167]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:767][168]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:799][169]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:831][170]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:864][171]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:896][172]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:928][173]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:959][174]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.21:992][175]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:024][176]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:056][177]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:088][178]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:120][179]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:152][180]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:184][181]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:216][182]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:247][183]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:280][184]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:312][185]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:345][186]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:377][187]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:408][188]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:440][189]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:472][190]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:505][191]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:537][192]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:569][193]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:602][194]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:634][195]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:667][196]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:699][197]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:730][198]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:761][199]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:794][200]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:826][201]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:857][202]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:890][203]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:923][204]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:955][205]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.22:987][206]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:020][207]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:052][208]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:084][209]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:116][210]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:148][211]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:181][212]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:215][213]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:247][214]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:280][215]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:312][216]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:346][217]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:377][218]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:410][219]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:443][220]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:477][221]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:509][222]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:543][223]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:575][224]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:608][225]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:641][226]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:672][227]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:705][228]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:737][229]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:768][230]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:801][231]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:833][232]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:866][233]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:897][234]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:931][235]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:963][236]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.23:995][237]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:026][238]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:059][239]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:091][240]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:123][241]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:155][242]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:190][243]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:221][244]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:254][245]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:286][246]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:317][247]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:349][248]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:380][249]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:414][250]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:447][251]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:478][252]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:512][253]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:543][254]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:575][255]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:608][256]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:640][257]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:673][258]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:705][259]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:736][260]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:768][261]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:801][262]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:833][263]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:865][264]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:897][265]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:929][266]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:961][267]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:994][268]LogBlueprintUserMessages: [Inimigo1Blueprint_2] Hello
+[2018.12.16-14.43.24:996][268]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.43.24:996][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-14.43.25:079][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-14.43.25:080][268]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.43.25:153][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-14.43.25:196][269]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2018.12.16-14.43.26:753][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-14.43.36:472][492]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.43.36:472][492]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.43.36:473][492]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.43.36:511][493]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.43.38:686][715]BlueprintLog: New page: Compile Inimigo1Blueprint
+[2018.12.16-14.43.43:448][169]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.43.43:448][169]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.43.43:457][169]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.43.43:498][169]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.43.43:570][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Personagens/Inimigo1Blueprint" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset" SILENT=true
+[2018.12.16-14.43.43:630][169]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/Inimigo1Blueprint5EA4E95608D6634BBB49F8A6BABD219C.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset'
+[2018.12.16-14.43.56:640][878]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.43.56:640][878]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.43.56:641][878]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.43.56:734][879]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.43.59:253][985]BlueprintLog: New page: Compile Inimigo1BluePrint
+[2018.12.16-14.43.59:305][985]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Inimigo1BluePrint_C /Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Inimigo1BluePrint_C_3
+	Function /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint_C:ExecuteUbergraph_Inimigo1BluePrint:01FC
+[2018.12.16-14.43.59:306][985]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Inimigo1BluePrint_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Inimigo1BluePrint_C_9
+	Function /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint_C:ExecuteUbergraph_Inimigo1BluePrint:01FC
+[2018.12.16-14.43.59:470][985]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Inimigo1BluePrint_C /Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Inimigo1BluePrint_C_3
+	Function /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint_C:ExecuteUbergraph_Inimigo1BluePrint:01FC
+[2018.12.16-14.43.59:520][986]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Inimigo1BluePrint_C /Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Inimigo1BluePrint_C_3
+	Function /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint_C:ExecuteUbergraph_Inimigo1BluePrint:01FC
+[2018.12.16-14.43.59:625][987]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Inimigo1BluePrint_C /Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Inimigo1BluePrint_C_3
+	Function /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint_C:ExecuteUbergraph_Inimigo1BluePrint:01FC
+[2018.12.16-14.43.59:651][988]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Inimigo1BluePrint_C /Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Inimigo1BluePrint_C_3
+	Function /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint_C:ExecuteUbergraph_Inimigo1BluePrint:01FC
+[2018.12.16-14.43.59:661][989]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Inimigo1BluePrint_C /Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Inimigo1BluePrint_C_3
+	Function /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint_C:ExecuteUbergraph_Inimigo1BluePrint:01FC
+[2018.12.16-14.43.59:677][990]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Inimigo1BluePrint_C /Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Inimigo1BluePrint_C_3
+	Function /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint_C:ExecuteUbergraph_Inimigo1BluePrint:01FC
+[2018.12.16-14.43.59:698][991]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Inimigo1BluePrint_C /Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Inimigo1BluePrint_C_3
+	Function /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint_C:ExecuteUbergraph_Inimigo1BluePrint:01FC
+[2018.12.16-14.43.59:719][992]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Inimigo1BluePrint_C /Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Inimigo1BluePrint_C_3
+	Function /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint_C:ExecuteUbergraph_Inimigo1BluePrint:01FC
+[2018.12.16-14.43.59:740][993]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Inimigo1BluePrint_C /Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Inimigo1BluePrint_C_3
+	Function /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint_C:ExecuteUbergraph_Inimigo1BluePrint:01FC
+[2018.12.16-14.43.59:762][994]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Inimigo1BluePrint_C /Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Inimigo1BluePrint_C_3
+	Function /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint_C:ExecuteUbergraph_Inimigo1BluePrint:01FC
+[2018.12.16-14.43.59:782][995]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Inimigo1BluePrint_C /Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Inimigo1BluePrint_C_3
+	Function /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint_C:ExecuteUbergraph_Inimigo1BluePrint:01FC
+[2018.12.16-14.43.59:803][996]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Inimigo1BluePrint_C /Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Inimigo1BluePrint_C_3
+	Function /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint_C:ExecuteUbergraph_Inimigo1BluePrint:01FC
+[2018.12.16-14.43.59:827][997]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Inimigo1BluePrint_C /Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Inimigo1BluePrint_C_3
+	Function /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint_C:ExecuteUbergraph_Inimigo1BluePrint:01FC
+[2018.12.16-14.43.59:846][998]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Inimigo1BluePrint_C /Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Inimigo1BluePrint_C_3
+	Function /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint_C:ExecuteUbergraph_Inimigo1BluePrint:01FC
+[2018.12.16-14.43.59:864][999]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Inimigo1BluePrint_C /Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Inimigo1BluePrint_C_3
+	Function /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint_C:ExecuteUbergraph_Inimigo1BluePrint:01FC
+[2018.12.16-14.43.59:883][  0]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Inimigo1BluePrint_C /Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Inimigo1BluePrint_C_3
+	Function /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint_C:ExecuteUbergraph_Inimigo1BluePrint:01FC
+[2018.12.16-14.43.59:962][  4]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.43.59:962][  4]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.43.59:994][  4]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.44.00:029][  4]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.44.00:099][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Animations/Inimigo1BluePrint" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Animations/Inimigo1BluePrint.uasset" SILENT=true
+[2018.12.16-14.44.00:176][  4]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/Inimigo1BluePrint60E7198908D6634BC5242F90BBB958D5.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Animations/Inimigo1BluePrint.uasset'
+[2018.12.16-14.44.01:644][ 89]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.44.01:644][ 89]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.44.01:647][ 89]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.44.01:691][ 89]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.44.01:721][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapWord" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.16-14.44.02:111][ 89]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/MapWord610380AF08D6634BC63449F6BBD48E85.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord.umap'
+[2018.12.16-14.44.02:147][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapWord_BuiltData" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord_BuiltData.uasset" SILENT=true
+[2018.12.16-14.44.02:174][ 89]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/MapWord_BuiltData6105A03F08D6634BC65C9CD0BBD896C8.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord_BuiltData.uasset'
+[2018.12.16-14.44.03:321][201]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-14.44.03:351][201]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.44.03:351][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-14.44.03:351][201]PIE: New page: PIE session: MapWord (Dec 16, 2018, 8:44:03 AM)
+[2018.12.16-14.44.03:351][201]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapWord
+[2018.12.16-14.44.03:370][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019100s)
+[2018.12.16-14.44.03:371][201]LogAIModule: Creating AISystem for world MapWord
+[2018.12.16-14.44.03:371][201]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2018.12.16-14.44.03:371][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapWord.MapWord to /Game/Maps/UEDPIE_0_MapWord.MapWord (0.019991s)
+[2018.12.16-14.44.03:406][201]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.12.16-14.44.03:406][201]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.12.16-14.44.03:406][201]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.12.16-14.44.03:406][201]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.12.16-14.44.03:406][201]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.12.16-14.44.03:406][201]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.12.16-14.44.03:406][201]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.12.16-14.44.03:406][201]LogAudioMixer: Display: Initializing audio mixer.
+[2018.12.16-14.44.03:406][201]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.12.16-14.44.03:465][201]LogInit: FAudioDevice initialized.
+[2018.12.16-14.44.03:503][201]LogLoad: Game class is 'GameModeAV3_C'
+[2018.12.16-14.44.03:521][201]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapWord.MapWord up for play (max tick rate 0) at 2018.12.16-11.44.03
+[2018.12.16-14.44.03:525][201]LogWorld: Bringing up level for play took: 0.020718
+[2018.12.16-14.44.03:528][201]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapWord 0.186
+[2018.12.16-14.44.03:528][201]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.44.17:269][634]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.44.17:269][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-14.44.17:349][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-14.44.17:350][634]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.44.17:418][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-14.44.17:458][635]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2018.12.16-14.44.22:410][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-14.44.29:306][701]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.44.29:307][701]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.44.29:336][701]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.44.29:370][701]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Personagens/Inimigo/Vilao1/cetovilao1_Anim_rig_impactovdd.cetovilao1_Anim_rig_impactovdd
+[2018.12.16-14.44.29:720][701]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.44.29:754][701]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.16-14.44.29:795][701]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.16-14.44.30:609][701]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.16-14.45.36:650][819]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.45.36:650][819]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.45.36:652][819]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.45.36:688][819]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/BluePrints/Animations/HeroiAnimationBluprint.HeroiAnimationBluprint
+[2018.12.16-14.45.36:689][819]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.45.36:744][819]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.16-14.45.37:235][819]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.16-14.45.37:786][819]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.16-14.45.42:867][971]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.45.42:867][971]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.45.42:871][971]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.45.42:907][971]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Personagens/Heroi/V3/persoanima_Anim_rig_Walk.persoanima_Anim_rig_Walk
+[2018.12.16-14.45.42:909][971]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.45.42:952][971]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.16-14.45.42:981][971]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.16-14.45.43:596][971]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.16-14.45.51:539][197]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.45.51:539][197]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.45.51:570][197]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.45.51:606][197]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Personagens/Heroi/V3/persoanima_Anim_rig_Chute.persoanima_Anim_rig_Chute
+[2018.12.16-14.45.51:608][197]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.45.51:747][197]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.16-14.45.51:776][197]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.16-14.45.52:386][197]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.16-14.46.26:112][358]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.46.26:113][358]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.46.26:113][358]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.46.26:197][359]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.49.00:094][340]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.00:095][340]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.00:095][340]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.00:190][341]LogLinux: Scale at X=1378.000000, Y=815.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.00:284][341]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.49.00:364][343]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.49.01:777][403]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.01:778][403]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.01:778][403]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.01:868][404]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.49.09:034][743]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.09:034][743]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.09:034][743]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.09:170][745]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.49.11:393][829]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.11:393][829]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.11:393][829]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.11:563][830]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.49.12:209][859]LogLinux: Scale at X=1266.000000, Y=824.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.12:296][861]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.49.14:412][957]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.14:412][957]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.14:412][957]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.14:503][958]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.49.18:839][153]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.18:839][153]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.18:839][153]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.18:931][154]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.49.19:693][185]LogLinux: Scale at X=751.500000, Y=596.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.19:795][187]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.49.23:739][352]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.23:739][352]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.23:739][352]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.23:817][353]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.49.24:489][381]LogLinux: Scale at X=1072.000000, Y=748.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.24:556][383]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.49.28:654][559]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.28:654][559]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.28:654][559]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.28:743][560]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.49.31:375][667]BlueprintLog: New page: Compile Inimigo1BluePrint
+[2018.12.16-14.49.31:430][667]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Inimigo1BluePrint_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Inimigo1BluePrint_C_10
+	Function /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint_C:ExecuteUbergraph_Inimigo1BluePrint:01FC
+[2018.12.16-14.49.32:240][690]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.32:240][690]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.32:268][690]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.49.32:309][690]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.49.32:378][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Animations/Inimigo1BluePrint" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Animations/Inimigo1BluePrint.uasset" SILENT=true
+[2018.12.16-14.49.32:476][690]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/Inimigo1BluePrint717970A208D6634C8B34A9A8CF87B5A7.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Animations/Inimigo1BluePrint.uasset'
+[2018.12.16-14.51.21:919][387]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-14.51.21:941][387]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.51.21:941][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-14.51.21:941][387]PIE: New page: PIE session: MapWord (Dec 16, 2018, 8:51:21 AM)
+[2018.12.16-14.51.21:941][387]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapWord
+[2018.12.16-14.51.21:960][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018221s)
+[2018.12.16-14.51.21:960][387]LogAIModule: Creating AISystem for world MapWord
+[2018.12.16-14.51.21:961][387]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2018.12.16-14.51.21:961][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapWord.MapWord to /Game/Maps/UEDPIE_0_MapWord.MapWord (0.019227s)
+[2018.12.16-14.51.22:004][387]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.12.16-14.51.22:004][387]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.12.16-14.51.22:004][387]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.12.16-14.51.22:004][387]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.12.16-14.51.22:004][387]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.12.16-14.51.22:004][387]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.12.16-14.51.22:004][387]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.12.16-14.51.22:005][387]LogAudioMixer: Display: Initializing audio mixer.
+[2018.12.16-14.51.22:005][387]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.12.16-14.51.22:053][387]LogInit: FAudioDevice initialized.
+[2018.12.16-14.51.22:088][387]LogLoad: Game class is 'GameModeAV3_C'
+[2018.12.16-14.51.22:102][387]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapWord.MapWord up for play (max tick rate 0) at 2018.12.16-11.51.22
+[2018.12.16-14.51.22:105][387]LogWorld: Bringing up level for play took: 0.015394
+[2018.12.16-14.51.22:106][387]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapWord 0.166
+[2018.12.16-14.51.22:107][387]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.51.30:832][606]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.51.30:833][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-14.51.30:937][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-14.51.30:937][606]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.51.31:012][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-14.51.31:057][607]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2018.12.16-14.51.34:011][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-14.51.49:827][501]BlueprintLog: New page: Compile Inimigo1BluePrint
+[2018.12.16-14.51.49:883][501]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Inimigo1BluePrint_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Inimigo1BluePrint_C_11
+	Function /Game/BluePrints/Animations/Inimigo1BluePrint.Inimigo1BluePrint_C:ExecuteUbergraph_Inimigo1BluePrint:01FC
+[2018.12.16-14.51.50:715][527]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.51.50:716][527]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.51.50:741][527]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.51.50:777][527]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.51.50:849][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Animations/Inimigo1BluePrint" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Animations/Inimigo1BluePrint.uasset" SILENT=true
+[2018.12.16-14.51.50:934][527]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/Inimigo1BluePrint73D9B0FA08D6634CDDBD1D22D7C88815.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Animations/Inimigo1BluePrint.uasset'
+[2018.12.16-14.51.54:737][817]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-14.51.54:763][817]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.51.54:763][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-14.51.54:763][817]PIE: New page: PIE session: MapWord (Dec 16, 2018, 8:51:54 AM)
+[2018.12.16-14.51.54:763][817]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapWord
+[2018.12.16-14.51.54:781][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018246s)
+[2018.12.16-14.51.54:782][817]LogAIModule: Creating AISystem for world MapWord
+[2018.12.16-14.51.54:782][817]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2018.12.16-14.51.54:782][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapWord.MapWord to /Game/Maps/UEDPIE_0_MapWord.MapWord (0.019154s)
+[2018.12.16-14.51.54:817][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.12.16-14.51.54:817][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.12.16-14.51.54:817][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.12.16-14.51.54:817][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.12.16-14.51.54:818][817]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.12.16-14.51.54:818][817]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.12.16-14.51.54:818][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.12.16-14.51.54:818][817]LogAudioMixer: Display: Initializing audio mixer.
+[2018.12.16-14.51.54:818][817]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.12.16-14.51.54:876][817]LogInit: FAudioDevice initialized.
+[2018.12.16-14.51.54:919][817]LogLoad: Game class is 'GameModeAV3_C'
+[2018.12.16-14.51.54:949][817]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapWord.MapWord up for play (max tick rate 0) at 2018.12.16-11.51.54
+[2018.12.16-14.51.54:953][817]LogWorld: Bringing up level for play took: 0.033429
+[2018.12.16-14.51.54:958][817]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapWord 0.196
+[2018.12.16-14.51.54:959][817]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.52.23:691][793]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.52.23:692][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-14.52.23:772][793]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-14.52.23:773][793]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.52.23:845][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-14.52.23:880][794]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2018.12.16-14.52.26:096][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-14.52.53:132][247]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.52.53:132][247]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.52.53:132][247]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.52.53:201][248]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.52.54:060][308]LogLinux: Scale at X=1156.000000, Y=586.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.52.54:125][310]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.53.04:356][414]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.53.04:356][414]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.53.04:356][414]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.53.04:433][415]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.53.05:130][463]LogLinux: Scale at X=1399.000000, Y=625.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.53.05:194][465]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.53.09:555][932]BlueprintLog: New page: Compile Inimigo1Blueprint
+[2018.12.16-14.53.10:258][972]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.53.10:258][972]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.53.10:273][972]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.53.10:317][972]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.53.10:389][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Personagens/Inimigo1Blueprint" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset" SILENT=true
+[2018.12.16-14.53.10:451][972]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/Inimigo1Blueprint761A2DDB08D6634D0D24FD78DC861BB1.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset'
+[2018.12.16-14.53.14:270][327]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.53.14:270][327]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.53.14:273][327]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.53.14:312][327]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.53.14:346][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapWord" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.16-14.53.14:744][327]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/MapWord7637D6AB08D6634D0F9A5FDADCC50BCD.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord.umap'
+[2018.12.16-14.53.14:781][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapWord_BuiltData" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord_BuiltData.uasset" SILENT=true
+[2018.12.16-14.53.14:809][327]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/MapWord_BuiltData7639B6C508D6634D0FC341B6DCC92261.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord_BuiltData.uasset'
+[2018.12.16-14.53.15:553][395]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-14.53.15:584][395]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.53.15:584][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-14.53.15:584][395]PIE: New page: PIE session: MapWord (Dec 16, 2018, 8:53:15 AM)
+[2018.12.16-14.53.15:584][395]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapWord
+[2018.12.16-14.53.15:602][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017957s)
+[2018.12.16-14.53.15:603][395]LogAIModule: Creating AISystem for world MapWord
+[2018.12.16-14.53.15:603][395]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2018.12.16-14.53.15:603][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapWord.MapWord to /Game/Maps/UEDPIE_0_MapWord.MapWord (0.019058s)
+[2018.12.16-14.53.15:638][395]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.12.16-14.53.15:639][395]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.12.16-14.53.15:639][395]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.12.16-14.53.15:639][395]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.12.16-14.53.15:639][395]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.12.16-14.53.15:639][395]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.12.16-14.53.15:639][395]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.12.16-14.53.15:639][395]LogAudioMixer: Display: Initializing audio mixer.
+[2018.12.16-14.53.15:639][395]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.12.16-14.53.15:696][395]LogInit: FAudioDevice initialized.
+[2018.12.16-14.53.15:730][395]LogLoad: Game class is 'GameModeAV3_C'
+[2018.12.16-14.53.15:744][395]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapWord.MapWord up for play (max tick rate 0) at 2018.12.16-11.53.15
+[2018.12.16-14.53.15:746][395]LogWorld: Bringing up level for play took: 0.015726
+[2018.12.16-14.53.15:749][395]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapWord 0.175
+[2018.12.16-14.53.15:749][395]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.53.28:036][768]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.53.28:037][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-14.53.28:122][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-14.53.28:123][768]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.53.28:179][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-14.53.28:214][769]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2018.12.16-14.53.31:031][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-14.53.36:328][635]BlueprintLog: New page: Compile Inimigo1Blueprint
+[2018.12.16-14.53.38:101][774]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.53.38:101][774]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.53.38:103][774]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.53.38:155][774]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.53.38:171][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapWord" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.16-14.53.38:562][774]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/MapWord788189B708D6634D1DCCEB36DE307F5E.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord.umap'
+[2018.12.16-14.53.38:599][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapWord_BuiltData" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord_BuiltData.uasset" SILENT=true
+[2018.12.16-14.53.38:627][774]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/MapWord_BuiltData7883B08F08D6634D1DF58FE6DE348FD3.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/Maps/MapWord_BuiltData.uasset'
+[2018.12.16-14.53.39:451][849]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-14.53.39:481][849]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.53.39:482][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-14.53.39:482][849]PIE: New page: PIE session: MapWord (Dec 16, 2018, 8:53:39 AM)
+[2018.12.16-14.53.39:482][849]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapWord
+[2018.12.16-14.53.39:500][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018245s)
+[2018.12.16-14.53.39:501][849]LogAIModule: Creating AISystem for world MapWord
+[2018.12.16-14.53.39:501][849]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2018.12.16-14.53.39:501][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapWord.MapWord to /Game/Maps/UEDPIE_0_MapWord.MapWord (0.019241s)
+[2018.12.16-14.53.39:543][849]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.12.16-14.53.39:543][849]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.12.16-14.53.39:543][849]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.12.16-14.53.39:543][849]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.12.16-14.53.39:543][849]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.12.16-14.53.39:544][849]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.12.16-14.53.39:544][849]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.12.16-14.53.39:544][849]LogAudioMixer: Display: Initializing audio mixer.
+[2018.12.16-14.53.39:544][849]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.12.16-14.53.39:612][849]LogInit: FAudioDevice initialized.
+[2018.12.16-14.53.39:638][849]LogLoad: Game class is 'GameModeAV3_C'
+[2018.12.16-14.53.39:649][849]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapWord.MapWord up for play (max tick rate 0) at 2018.12.16-11.53.39
+[2018.12.16-14.53.39:651][849]LogWorld: Bringing up level for play took: 0.011732
+[2018.12.16-14.53.39:652][849]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapWord 0.182
+[2018.12.16-14.53.39:653][849]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.54.03:702][612]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.54.03:703][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-14.54.03:782][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-14.54.03:783][612]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapWord.MapWord:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord' with GeneratedClass '/Game/Maps/MapWord.MapWord_C' with ClassGeneratedBy '/Game/Maps/MapWord.MapWord:PersistentLevel.MapWord'
+[2018.12.16-14.54.03:865][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-14.54.03:923][613]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2018.12.16-14.54.09:619][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-14.54.10:662][ 44]LogLinux: Scale at X=0.000000, Y=30.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.54.10:662][ 44]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.54.10:667][ 44]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.12.16-14.54.10:735][ 44]LogLinux: Setting swap interval to 'Immediate'
+[2018.12.16-14.54.10:828][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Personagens/Inimigo1Blueprint" FILE="../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset" SILENT=true
+[2018.12.16-14.54.10:891][ 44]LogSavePackage: Moving '../../../../Documentos/Unreal Projects/GameAV3/Saved/Inimigo1Blueprint789EDA9308D6634D312B523AE0205577.tmp' to '../../../../Documentos/Unreal Projects/GameAV3/Content/BluePrints/Personagens/Inimigo1Blueprint.uasset'
