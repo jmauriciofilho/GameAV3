@@ -1,0 +1,43 @@
+Generating report for minidump
+
+Application version 4.20.1.0
+ ... built from changelist 0
+
+OS version Linux 4.15.0-42-generic (network name: R2D2)
+Running 2 x86_64 processors (4 logical cores)
+Exception was "Ensure condition failed: false [File:/home/mauricio/UnrealEngine/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1142] "
+
+<SOURCE START>
+<SOURCE END>
+
+<CALLSTACK START>
+libUE4Editor-Core.so!FUnixPlatformStackWalk::CaptureStackBackTrace(unsigned long long*, unsigned int, void*) [/home/mauricio/UnrealEngine/Engine/Source/Runtime/Core/Private/Unix/UnixPlatformStackWalk.cpp:1427]
+libUE4Editor-Core.so!FGenericPlatformStackWalk::StackWalkAndDump(char*, unsigned long, int, void*) [/home/mauricio/UnrealEngine/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformStackWalk.cpp:172]
+libUE4Editor-Core.so!FUnixCrashContext::CaptureStackTrace() [/home/mauricio/UnrealEngine/Engine/Source/Runtime/Core/Private/Unix/UnixPlatformCrashContext.cpp:292]
+libUE4Editor-Core.so!NewReportEnsure(wchar_t const*) [/home/mauricio/UnrealEngine/Engine/Source/Runtime/Core/Private/Unix/UnixPlatformStackWalk.cpp:1586]
+libUE4Editor-Core.so!FDebug::EnsureFailed(char const*, char const*, int, wchar_t const*) [/home/mauricio/UnrealEngine/Engine/Source/Runtime/Core/Private/Misc/AssertionMacros.cpp:392]
+libUE4Editor-Core.so!FDebug::OptionallyLogFormattedEnsureMessageReturningFalseImpl(bool, char const*, char const*, int, wchar_t const*, ...) [/home/mauricio/UnrealEngine/Engine/Source/Runtime/Core/Private/Misc/AssertionMacros.cpp:436]
+libUE4Editor-UnrealEd.so!FKismetDebugUtilities::FindDebuggingData(UBlueprint*, UObject*, UEdGraphPin const*, UProperty*&, void*&, void*&, UObject*&) [/home/mauricio/UnrealEngine/Engine/Source/Runtime/Core/Public/Misc/AssertionMacros.h:94]
+libUE4Editor-UnrealEd.so!FKismetDebugUtilities::GetWatchText(FString&, UBlueprint*, UObject*, UEdGraphPin const*) [/home/mauricio/UnrealEngine/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp:1104]
+libUE4Editor-BlueprintGraph.so!UK2Node::GetPinHoverText(UEdGraphPin const&, FString&) const [/home/mauricio/UnrealEngine/Engine/Source/Editor/BlueprintGraph/Private/K2Node.cpp:1622]
+libUE4Editor-GraphEditor.so!SGraphPin::GetTooltipText() const [/home/mauricio/UnrealEngine/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp:1105]
+libUE4Editor-GraphEditor.so!TBaseSPMethodDelegateInstance<true, SGraphPin, (ESPMode)0, FText ()>::Execute() const [/home/mauricio/UnrealEngine/Engine/Source/Runtime/Core/Public/Delegates/DelegateInstanceInterface.h:156]
+libUE4Editor-InputCore.so!TAttribute<FText>::Get() const [/home/mauricio/UnrealEngine/Engine/Source/Runtime/Core/Public/Delegates/DelegateSignatureImpl.inl:537]
+libUE4Editor-Slate.so!non-virtual thunk to SToolTip::IsEmpty() const [/home/mauricio/UnrealEngine/Engine/Source/Runtime/Slate/Private/Widgets/SToolTip.cpp:87]
+libUE4Editor-Slate.so!FSlateApplication::UpdateToolTip(bool) [/home/mauricio/UnrealEngine/Engine/Source/Runtime/Slate/Private/Framework/Application/SlateApplication.cpp:3724]
+libUE4Editor-Slate.so!FSlateApplication::ProcessMouseMoveEvent(FPointerEvent&, bool) [/home/mauricio/UnrealEngine/Engine/Source/Runtime/Slate/Private/Framework/Application/SlateApplication.cpp:6175]
+libUE4Editor-Slate.so!FSlateApplication::OnMouseMove() [/home/mauricio/UnrealEngine/Engine/Source/Runtime/Slate/Private/Framework/Application/SlateApplication.cpp:6128]
+libUE4Editor-ApplicationCore.so!FLinuxApplication::ProcessDeferredMessage(SDL_Event) [/home/mauricio/UnrealEngine/Engine/Source/Runtime/ApplicationCore/Private/Linux/LinuxApplication.cpp:322]
+libUE4Editor-ApplicationCore.so!FLinuxApplication::AddPendingEvent(SDL_Event) [/home/mauricio/UnrealEngine/Engine/Source/Runtime/ApplicationCore/Private/Linux/LinuxApplication.cpp:194]
+libUE4Editor-ApplicationCore.so!FLinuxPlatformApplicationMisc::PumpMessages(bool) [/home/mauricio/UnrealEngine/Engine/Source/Runtime/ApplicationCore/Private/Linux/LinuxPlatformApplicationMisc.cpp:424]
+UE4Editor!FEngineLoop::Tick() [/home/mauricio/UnrealEngine/Engine/Source/Runtime/Launch/Private/LaunchEngineLoop.cpp:3417]
+UE4Editor!GuardedMain(wchar_t const*) [/home/mauricio/UnrealEngine/Engine/Source/Runtime/Launch/Private/Launch.cpp:62]
+libUE4Editor-UnixCommonStartup.so!CommonUnixMain(int, char**, int (*)(wchar_t const*)) [/home/mauricio/UnrealEngine/Engine/Source/Runtime/Unix/UnixCommonStartup/Private/UnixCommonStartup.cpp:241]
+libc.so.6!__libc_start_main(+0xef)
+UE4Editor!_start()
+
+<CALLSTACK END>
+
+0 loaded modules
+
+Report end!
